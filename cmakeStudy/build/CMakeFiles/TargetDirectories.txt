@@ -1,0 +1,8 @@
+C:/Users/hangyl/Desktop/cmakeStudy/build/CMakeFiles/edit_cache.dir
+C:/Users/hangyl/Desktop/cmakeStudy/build/CMakeFiles/rebuild_cache.dir
+C:/Users/hangyl/Desktop/cmakeStudy/build/calc/CMakeFiles/calc.dir
+C:/Users/hangyl/Desktop/cmakeStudy/build/calc/CMakeFiles/edit_cache.dir
+C:/Users/hangyl/Desktop/cmakeStudy/build/calc/CMakeFiles/rebuild_cache.dir
+C:/Users/hangyl/Desktop/cmakeStudy/build/test/CMakeFiles/test.dir
+C:/Users/hangyl/Desktop/cmakeStudy/build/test/CMakeFiles/edit_cache.dir
+C:/Users/hangyl/Desktop/cmakeStudy/build/test/CMakeFiles/rebuild_cache.dir

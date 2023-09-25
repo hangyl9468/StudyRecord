@@ -1,0 +1,52 @@
+{
+    "version": "2.0.0",
+	/*"options": {
+		"cwd": "${workspaceFolder}/build"
+	},*/
+    "tasks": [
+		/*{
+			"type": "shell",
+			"label": "cmake",
+			"command": "cmake",
+			"args": [
+				".."
+			]
+		},
+		{
+			"label": "make",
+			"command": "mingw32-make.exe",
+			"args": [
+
+			]
+		},
+		{
+			"label": "build",
+			"dependsOn":[
+				"cmake",
+				"make"
+			]
+		}*/
+        {
+            "type": "shell",
+            "label": "build",
+            "command": "E:\\mingw64\\bin\\g++.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+				"*.cpp",
+                //"${workspaceFolder}\\main.cpp",
+                //"${workspaceFolder}\\swap.cpp",
+                "-o",
+                "main"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": "build",
+            "detail": "编译器: E:\\mingw64\\bin\\g++.exe"
+        }
+    ]
+}

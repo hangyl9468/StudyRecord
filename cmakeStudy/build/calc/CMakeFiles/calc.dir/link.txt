@@ -1,0 +1,2 @@
+E:\mingw64\bin\ar.exe qc C:\Users\hangyl\Desktop\cmakeStudy\lib\libcalc.a CMakeFiles/calc.dir/add.cpp.obj CMakeFiles/calc.dir/div.cpp.obj CMakeFiles/calc.dir/mul.cpp.obj CMakeFiles/calc.dir/sub.cpp.obj
+E:\mingw64\bin\ranlib.exe C:\Users\hangyl\Desktop\cmakeStudy\lib\libcalc.a

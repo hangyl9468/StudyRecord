@@ -1,0 +1,1 @@
+  -LC:/Users/hangyl/Desktop/cmakeStudy/lib  C:/Users/hangyl/Desktop/cmakeStudy/lib/libcalc.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
